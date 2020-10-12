@@ -37,7 +37,8 @@ Profile.propTypes={
     profession:PropTypes.string,
     bio:PropTypes.string,
     age:PropTypes.number,
-    isDead:PropTypes.bool
+    isDead:PropTypes.bool,
+    handleName:PropTypes.func
 };
 
 
